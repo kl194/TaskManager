@@ -1,14 +1,14 @@
-#TaskManager: Task Management Application#
+# TaskManager: Task Management Application
 A simple desktop application for managing personal tasks, built with C# and Windows Forms (WinForms), utilizing an embedded SQLite database for local data storage.
 
-##Technologies##
+## Technologies
 C#: Primary programming language.
 
 Windows Forms (WinForms): Framework used for the graphical user interface (GUI).
 
 SQLite: Lightweight, file-based database used for all data persistence.
 
-##Key Features##
+## Key Features
 Task Creation: Easily add new tasks, set names, descriptions, and assign categories (subjects).
 
 Task Management: Modify and update existing task details.
@@ -17,13 +17,13 @@ Scheduling: Set a due date for critical tasks.
 
 Status Tracking: Mark tasks as completed by changing their status.
 
-##Installation and Setup##
+## Installation and Setup
 To get the application running, you must build the project and correctly place the necessary database template file.
 
-##Prerequisites##
+## Prerequisites
 The required version of the .NET Framework installed on your system.
 
-##Step-by-Step Guide##
+## Step-by-Step Guide
 Build the Project:
 
 Open the TaskManager solution in Visual Studio.
